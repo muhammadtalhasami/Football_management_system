@@ -4,6 +4,10 @@
 This is my Football management system repository. This is Dbms python based gui project assigned by my 5th semester teacher. 
 For this i used Tkinter library .Tkinter is a Python library primarily used for creating graphical user interfaces (GUIs) in a professional programming context. It serves as a toolkit for developers to design and implement desktop applications with interactive and visually appealing interfaces. Tkinter is especially valuable when building applications that require user interaction, data input, and a polished presentation.
 
+# CONCEPTS USED
+
+Functions , Inheritance 
+
 # TASK
 
 following task are assigned by teacher that our project must have
@@ -51,7 +55,6 @@ The main reason of selecting this project is that i have  interest in Football t
 
         Pip install mysql-connector-python.
 
+# REMARKS
 
-
-
- 
+Overall It's a great Experience. Alhamdulillah i completed this project alone. This project enhance my skills more and boost my confidence and Inshallah in future i will post more projects related with dbms on this repository.
