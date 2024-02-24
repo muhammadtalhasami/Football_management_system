@@ -35,7 +35,7 @@ The main reason of selecting this project is that i have  interest in Football t
  NOTE:- TRIGGERS are used in this project which is fired when ever you try to insert more than 11 players.And you can add more Feature in it according to your choice
  this is semester based project thats why i made this project according to the instruction given by course teacher
 
-# HOW_YOU_CAN_ACCESS_THIS
+# INSTALLATION_PROCESS
 
 **1).** clone my repo
 
