@@ -55,6 +55,9 @@ The main reason of selecting this project is that i have  interest in Football t
 
         Pip install mysql-connector-python.
 
+# CONTRIBUTION:
+Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests. Help us enhance the Football Management System for the benefit of the open-source community.
+
 # REMARKS
 
 Overall It's a great Experience. Alhamdulillah i completed this project alone. This project enhance my skills more and boost my confidence and Inshallah in future i will post more projects related with dbms on this repository.
