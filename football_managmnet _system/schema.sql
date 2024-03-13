@@ -9,6 +9,15 @@ create table team_rank (
 
 );
 
+CREATE TABLE Register (
+    fname VARCHAR(255),
+    lname VARCHAR(255),
+    pswd VARCHAR(255),
+    Confirms_pswd VARCHAR(255),
+    email VARCHAR(255)
+);
+
+
 create table matches (
        match_id INT PRIMARY KEY,
 	   date_ char(20), 
@@ -24,10 +33,7 @@ CREATE TABLE team_bar (
     TEAM_NAME CHAR(20)
 );
 
-Inserting data into the team_bar table
-INSERT INTO players (player_id, team_id,fname,lname,position,jerseyno)
-VALUES
-	('ZI17',3,'Zlatan','Ibrahimović','CENTER FORWARD',17 );
+
 
 CREATE TABLE players (
     player_id INT PRIMARY KEY,
@@ -37,6 +43,11 @@ CREATE TABLE players (
     position char(20),
     jerseyno int
 );
+
+Inserting data into the team_bar table
+INSERT INTO players (player_id, team_id,fname,lname,position,jerseyno)
+VALUES
+	(17,3,'Zlatan','Ibrahimović','CENTER FORWARD',17 );
 
 ALTER TABLE players
 ADD CONSTRAINT fk_team_id
