@@ -1,7 +1,7 @@
 # INTRO
 ![Project Image](https://github.com/muhammadtalhasami/Football_management_system/blob/main/football_managmnet%20_system/project%20images/Screenshot%20(72).png)
 
-This is my Football management system repository. This is Dbms python based gui project . 
+This is my Football management system repository. A Dbms python based gui project . 
 For this i used Tkinter library .Tkinter is a Python library primarily used for creating graphical user interfaces (GUIs) in a professional programming context. It serves as a toolkit for developers to design and implement desktop applications with interactive and visually appealing interfaces. Tkinter is especially valuable when building applications that require user interaction, data input, and a polished presentation.
 
 # CONCEPTS USED
