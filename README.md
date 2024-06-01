@@ -61,3 +61,6 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 # REMARKS
 
 Overall It's a great Experience. Alhamdulillah i completed this project alone. This project enhance my skills more and boost my confidence and Inshallah in future i will post more projects related with dbms on this repository.
+
+# REPO ACTIVITY 
+![Alt](https://repobeats.axiom.co/api/embed/463471fb71b3116d983d1a9e2359bec7d8c73d9f.svg "Repobeats analytics image")
